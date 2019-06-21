@@ -1,0 +1,15 @@
+{
+  "name": "casino-bot",
+  "version": "1.0.0",
+  "description": "A bot that provides virtual gambling games through discord chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Yong",
+  "license": "ISC",
+  "dependencies": {
+    "cards": "^1.0.1",
+    "discord.js": "^11.5.1"
+  }
+}
